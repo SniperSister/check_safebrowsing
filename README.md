@@ -1,0 +1,1 @@
+This is an check plugin for icinga/nagios to monitor the Google Safebrowsing API status of a list of domains.
